@@ -1,0 +1,9 @@
+region      = "us-east-1"
+chat_model  = "" # model id or inference profile id enabled in your Bedrock console
+alert_email = ""
+# From the Bedrock pricing page for chat_model; leave 0 to disable cost reporting.
+price_in_per_1k  = 0
+price_out_per_1k = 0
+monthly_budget_usd = 10
+# Retrieval cutoff for Titan embeddings: tune with rag-eval before relying on refusals.
+min_score = 0.2

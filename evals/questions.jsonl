@@ -1,0 +1,22 @@
+{"question": "How many days do I have to return an unused item?", "expected_source": "returns-policy.md"}
+{"question": "Can I return a tent I already used on a camping trip?", "expected_source": "returns-policy.md"}
+{"question": "When will my refund arrive on my card?", "expected_source": "returns-policy.md"}
+{"question": "How long does express shipping take?", "expected_source": "shipping.md"}
+{"question": "What is the minimum order value for free shipping?", "expected_source": "shipping.md"}
+{"question": "Do you ship to Canada?", "expected_source": "shipping.md"}
+{"question": "My package tracking has not moved for a week, what should I do?", "expected_source": "shipping.md"}
+{"question": "How long is the warranty on a backpack?", "expected_source": "warranty.md"}
+{"question": "Is fire damage covered by the warranty?", "expected_source": "warranty.md"}
+{"question": "How do I make a warranty claim for a broken zipper?", "expected_source": "warranty.md"}
+{"question": "How long is the password reset link valid?", "expected_source": "account-security.md"}
+{"question": "Can I receive two factor codes by SMS?", "expected_source": "account-security.md"}
+{"question": "What happens to my order history if I delete my account?", "expected_source": "account-security.md"}
+{"question": "What is the capital of Australia?", "expected_source": null}
+{"question": "Which programming language is best for beginners?", "expected_source": null}
+{"question": "What are your store opening hours?", "expected_source": null}
+{"question": "Can I pay with PayPal?", "expected_source": null}
+{"question": "Do you sell kayaks?", "expected_source": null}
+{"question": "Is there a student discount?", "expected_source": null}
+{"question": "Do you ship to Brazil?", "expected_source": "shipping.md"}
+{"question": "How do I change the email address on my account?", "expected_source": null}
+{"question": "Is there a warranty on products from other brands?", "expected_source": "warranty.md"}
